@@ -38,6 +38,7 @@ gem 'google_drive'
 gem 'high_voltage'
 gem 'simple_form'
 gem 'foundation'
+gem 'zurb-foundation'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
